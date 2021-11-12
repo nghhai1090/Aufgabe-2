@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "hai",
+      "lastname": "nguyen",
+      "email": "nguyenhhai1090@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstname": "tram",
+      "lastname": "la",
+      "email": "tramla2501@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstname": "nguyen",
+      "lastname": "asSa",
+      "email": "nghhai1090@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstname": "nguyen",
+      "lastname": "kklöfdxfsdx",
+      "email": "tramladc2501@gmail.com"
+    },
+    {
+      "id": 5,
+      "firstname": "nam",
+      "lastname": "nguyen",
+      "email": "nguyenhhai1090@gmail.com"
+    }
+  ]
+}
