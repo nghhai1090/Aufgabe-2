@@ -17,7 +17,14 @@ Edit Function
 
 ![image](https://user-images.githubusercontent.com/76409868/141595004-c37aa66b-e0d2-44e9-8d89-b367098142d8.png)
 
-![image](https://user-images.githubusercontent.com/76409868/141595011-4612dc0a-a461-4061-a155-024cf7192283.png)
+![image](https://user-images.githubusercontent.com/76409868/141595217-9a3372f8-7d84-4a3d-9bf1-149d849e272d.png)
+
+Delete Function
+
+![image](https://user-images.githubusercontent.com/76409868/141595260-c3ff3c0f-2ddf-4508-b52e-0f4523051b35.png)
+
+![image](https://user-images.githubusercontent.com/76409868/141595266-83cca9ac-7b6c-4dad-9596-57bd00c38980.png)
+
 
 
 
