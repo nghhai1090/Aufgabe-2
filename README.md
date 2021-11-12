@@ -1,6 +1,17 @@
 # AngularCRUDApp
 an Application to manage users with CRUD functions 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
+
+![image](https://user-images.githubusercontent.com/76409868/141594958-745195c0-ec3d-4d8b-93c6-a96ebff6ac89.png)
+
+![image](https://user-images.githubusercontent.com/76409868/141594978-0a730f8b-c44e-42a7-aceb-c0567484be47.png)
+
+![image](https://user-images.githubusercontent.com/76409868/141594997-2fd612c7-fbfc-49c2-b97e-d6a83780ee4d.png)
+
+![image](https://user-images.githubusercontent.com/76409868/141595004-c37aa66b-e0d2-44e9-8d89-b367098142d8.png)
+
+![image](https://user-images.githubusercontent.com/76409868/141595011-4612dc0a-a461-4061-a155-024cf7192283.png)
+
+
 
 ## How to run
 From Terminal Window :
